@@ -135,8 +135,8 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Parnia."
-    subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that look great, feel fantastic, and function correctly."
+    subtitle: "I Turn Code Into Real-World Solutions"
+    content: " a Computer Science student at Toronto Metropolitan University with experience in full-stack development, data analysis, and machine learning. I enjoy building clean, reliable tools, whether it’s a web platform, a predictive model, or a data dashboard. I have a motivated and passionate personality. I'm comfortable working independently or in teams, and always open to learning something new. I care about writing code that’s not only functional, but maintainable and useful to others."
     image: /images/me.jpg
     bottomImage:
       enable: true
@@ -161,9 +161,11 @@ params:
     title: "About Me"
     image: "/images/me.png"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA.
+      I'm currently studying Computer Science at Toronto Metropolitan University, with a strong foundation in software development, data science and machine learning.
 
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+      Professionally, I’ve worked as a full-stack developer at National Plastic Heater, where I manage a Cpanel/PHP/MySQL website, optimize SEO, and improve accessibility and performance across multiple product pages. I’ve also led the Data Science Team at the Metropolitan Data Science Association, organizing workshops and mentoring students in Python, SQL, and data tools.
+
+      My academic background and project experience span web development, machine learning, and database systems, giving me the versatility to build both front-end applications and back-end systems that are scalable and user-focused.
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
@@ -173,7 +175,7 @@ params:
         - "JavaScript"
         - "React"
         - "Node"
-        - "Express"
+        - "PHP"
 
   # Experience
   experience:
